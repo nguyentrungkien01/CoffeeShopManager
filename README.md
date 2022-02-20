@@ -11,4 +11,4 @@ Phần mềm quản lý quán cafe được ứng dụng từ môn oop
 - Quản lý thông tin nhân viên, bàn ăn, thức ăn
 - Gọi món, hủy món, thanh toán
 
-[Link video demo chương trình](https://youtu.be/FQnUMRO0sg8)
+[Link video demo chương trình](https://youtu.be/1bdYg4hTT2s)
